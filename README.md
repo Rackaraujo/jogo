@@ -1,2 +1,2 @@
-# https://rackaraujo.github.io/jogo/página inicial.html
+# https://rackaraujo.github.io/jogo/paginainicial.html
 castlevania?
